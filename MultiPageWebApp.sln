@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPageWebApp", "MultiPageWebApp\MultiPageWebApp.csproj", "{F5EE1BCE-33A8-47D4-98F7-9922D8EF68C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EE1BCE-33A8-47D4-98F7-9922D8EF68C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EE1BCE-33A8-47D4-98F7-9922D8EF68C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EE1BCE-33A8-47D4-98F7-9922D8EF68C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EE1BCE-33A8-47D4-98F7-9922D8EF68C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D131AC82-B0E4-4A26-8711-ACBC29075829}
+	EndGlobalSection
+EndGlobal
